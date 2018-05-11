@@ -1,0 +1,10 @@
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.exe.config
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.exe
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.pdb
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.dll
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.Support.dll
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.xml
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.Support.xml
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.csprojResolveAssemblyReference.cache
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.exe
+C:\Users\Avalanche\Documents\Code\SeleniumWebDriver\SetupEnvironment\SetupEnvironment\03.ClassName\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.pdb
