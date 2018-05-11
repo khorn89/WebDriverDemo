@@ -18,7 +18,26 @@ namespace WebDriverDemo
             //Initilize Driver
             IWebDriver driver = new ChromeDriver();
 
+            //Set URL
             driver.Url = "http://www.google.com";
+
+            //Find element
+            var searchbox = driver.FindElement(By.Id("lst-ib"));
+
+            //enter text into field 
+            searchbox.SendKeys("pluralsight");
+
+            //click search
+            var GoogleSearch = driver.FindElement(By.Id("gsr"));
+            GoogleSearch.Click();
+
+            //call timeout
+            driver.Manage().Timeouts().ImplicitWait(TimeSpan.FromSeconds(10));
+
+            //image link
+            var imageLink = driver.FindElements(By.ClassName("hdtb-mitem hdtb-msel hdtb-imb"))[0];
+            imageLink.Click();
+
 
         }
     }
